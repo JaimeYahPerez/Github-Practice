@@ -1,1 +1,1 @@
-This is a practice project to better understand Git and GitHub.
+This is a practice project to better understand Git and GitHub. By pushing and pulling the text file we learn how to communicate with each other while coding and we get practice on these skills
