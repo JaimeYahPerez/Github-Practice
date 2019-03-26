@@ -1,0 +1,1 @@
+This is a practice project to better understand Git and GitHub.
