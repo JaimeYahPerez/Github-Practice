@@ -1,2 +1,4 @@
 How was rehearsals? I'm unsure what to add or ask at the moment so please add on.
 Well good luck with using your computer, just make sure to commit.
+I'm trying to commit but it isn't working
+Nevermind just worked, forgot to save
